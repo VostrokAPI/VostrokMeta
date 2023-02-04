@@ -1,2 +1,2 @@
 # VostrokMeta
-Vostrok Library to Metamorphh a binary
+Vostrok Meta
